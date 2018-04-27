@@ -1,14 +1,5 @@
 # Memory Game Project
 
-## Table of Contents
-
-* [Descriptions](#Descriptions)
-* [Game Instructions](#instructions)
-* [Issues](#issues)
-* [Contributing](#contributing)
-* [Project Dependencies](#project dependencies)
-
-
 ## Descriptions
 
 This is a student project in the [Udacity's Front-End Nanodegree  program](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) to build a Memory Game. It is an online Game built with HTML, CSS and Javascript. The Game is basically to practice or to test how good your memory is.
