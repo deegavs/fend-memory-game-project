@@ -40,7 +40,7 @@ The `starter code` markup and styles has to be modified to alter the styles and 
 
 2. **Functionality**
 - The interactivity and logic of the game is developed by manipulating the DOM with [Vanilla JS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/).
-- Create a popup window with [modal box](https://www.w3schools.com/howto/howto_css_modals.asp).
+- Creation of a popup window is done with [modal box](https://www.w3schools.com/howto/howto_css_modals.asp).
 
 3. **Resources**
 
