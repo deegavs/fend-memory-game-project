@@ -4,13 +4,14 @@
 
 * [Descriptions](#Descriptions)
 * [Game Instructions](#instructions)
-* [Issues](#Issues)
+* [Issues](#issues)
 * [Contributing](#contributing)
-* [Project Dependencies](#Project Dependencies)
+* [Project Dependencies](#project dependencies)
+
 
 ## Descriptions
 
-This is a Memory Game Project for students in the Udacity's Front-End Nanodegree program. The Game is basically to practice or find out how good your memory is. It is an online Game built with HTML, CSS and Javascript.
+This is a student project in the [Udacity's Front-End Nanodegree  program](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) to build a Memory Game. It is an online Game built with HTML, CSS and Javascript. The Game is basically to practice or to test how good your memory is.
 
 ## Game Instructions
 
@@ -30,12 +31,19 @@ For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 The Project is built on Udacity's static `starter code`.
 
-The `starter code` markup and styles has to be modified to alter the styles efficiently develop the interactivity and the logic of the game.
+The `starter code` markup and styles has to be modified to alter the styles and efficiently develop the interactivity and the logic of the game.
+
 1. **Design**
-- Fonts from [Google Fonts](https://fonts.google.com/).
-- Icons from [Fontawesome](https://fontawesome.com/).
-- Background image from [subtlepatterns.com](https://www.toptal.com/designers/subtlepatterns/page/9/).
+
+- HTML(Markup).
+- CSS(Styling).
 
 2. **Functionality**
 - The interactivity and logic of the game is developed by manipulating the DOM with [Vanilla JS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/).
 - Create a popup window with [modal box](https://www.w3schools.com/howto/howto_css_modals.asp).
+
+3. **Resources**
+
+- Styling fonts are from [Google Fonts](https://fonts.google.com/).
+- Card icons are from [Fontawesome](https://fontawesome.com/).
+- Background image is from [subtlepatterns.com](https://www.toptal.com/designers/subtlepatterns/page/9/).
